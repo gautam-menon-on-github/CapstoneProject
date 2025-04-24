@@ -45,3 +45,16 @@ Natural hazard prediction is critical for disaster preparedness and mitigation. 
 ├── Capstone.ipynb        # Main analysis notebook
 ├── README.md             # Project overview
 └── requirements.txt      # Dependencies
+```
+
+
+## 📚 References
+
+- [IMD - Indian Meteorological Department](https://mausam.imd.gov.in/)
+- [NDMA - National Disaster Management Authority](https://ndma.gov.in/)
+- Scikit-learn documentation
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repo, raise issues, or submit pull requests.
+
