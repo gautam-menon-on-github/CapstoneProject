@@ -1,6 +1,6 @@
 # 🌍 AI-Driven Natural Hazard Prediction
 
-This project investigates the application of machine learning models for predicting natural hazards, focusing on major disasters in India such as floods and cyclones. It features a comparative performance analysis of **K-Nearest Neighbors (KNN)**, **Support Vector Machines (SVM)**, and **Decision Trees (DT)**.
+This project investigates the application of machine learning models for predicting natural hazards, focusing on major disasters in India such as floods and cyclones. It features a comparative performance analysis of **K-Nearest Neighbors (KNN)**, **Support Vector Machines (SVM)**, and **Decision Trees**.
 
 ## 📌 Overview
 
@@ -53,8 +53,3 @@ Natural hazard prediction is critical for disaster preparedness and mitigation. 
 - [IMD - Indian Meteorological Department](https://mausam.imd.gov.in/)
 - [NDMA - National Disaster Management Authority](https://ndma.gov.in/)
 - Scikit-learn documentation
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repo, raise issues, or submit pull requests.
-
