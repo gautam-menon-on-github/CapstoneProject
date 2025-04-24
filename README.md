@@ -1,6 +1,6 @@
 # 🌍 AI-Driven Natural Hazard Prediction
 
-Our capstone project investigates the application of machine learning models for predicting natural hazards, focusing on major disasters in India such as floods and cyclones. It features a comparative performance analysis of **K-Nearest Neighbors (KNN)**, **Support Vector Machines (SVM)**, and **Decision Trees (DT)**.
+This project investigates the application of machine learning models for predicting natural hazards, focusing on major disasters in India such as floods and cyclones. It features a comparative performance analysis of **K-Nearest Neighbors (KNN)**, **Support Vector Machines (SVM)**, and **Decision Trees (DT)**.
 
 ## 📌 Overview
 
@@ -26,19 +26,22 @@ Natural hazard prediction is critical for disaster preparedness and mitigation. 
 
 ## 📊 Results Summary
 
-| Model         | Accuracy (%) |  Precision (%)  |  Recall (%) | F1-Score (%)  |
-|---------------|--------------|-----------------|-------------|---------------|
-| KNN           | 79.47        |      74.15      |    79.47    |    75.88      |
-| SVM           | 48.34        |      32.35      |    48.34    |    36.45      |
-| Decision Tree | 87.41        |      80.50      |    87.41    |    83.66      |
+| Model         | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
+|---------------|--------------|----------------|-------------|---------------|
+| KNN           | 79.47        | 74.15          | 79.47       | 75.88         |
+| SVM           | 48.34        | 32.35          | 48.34       | 36.45         |
+| Decision Tree | 87.41        | 80.50          | 87.41       | 83.66         |
 
 ## 🛠️ Tech Stack
-- Python 3.10
+
+- Python 3.x
 - pandas, seaborn, matplotlib
 - scikit-learn
 
 ## 📁 Repository Structure
 
-. ├── Capstone.ipynb # Main analysis notebook
-  ├── README.md # Project overview 
-  └── requirements.txt # Dependencies
+```plaintext
+.
+├── Capstone.ipynb        # Main analysis notebook
+├── README.md             # Project overview
+└── requirements.txt      # Dependencies
